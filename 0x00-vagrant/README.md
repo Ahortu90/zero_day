@@ -1,31 +1,5 @@
-# Header 1
+Inside the zero_day repo, create a new directory called 0x00-vagrant. Add a README.md file to this directory.
 
-## Header 2
+ssh into your Ubuntu VM. What does the command uname print when you run it without any option?
 
-### Header 3 
-
-#### Header 4 ####
-
-##### Header 5 #####
-
-###### Header 6 ######
-
-	
-
-> Quoted text.
-
-> > Quoted quote.
-
-
-
-> * Quoted 
-
-> * List
-
-Linked logo: [![alt text](/wp-smaller.png)]
-
-(http://wordpress.com/ "Title")
-
-*Emphasize* _emphasize_
-
-**Strong** __Strong__
+Type your answer into a file in the 0x00-vagrant directory and push it to GitHub. Name your file accordingly as shown below.
